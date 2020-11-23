@@ -96,11 +96,11 @@ a {
 }
 
 .figure {
-  object-fit: contain; 
+  object-fit: contain;
   margin: 0px;
-  width: 100%; 
+  width: 100%;
 }
 
 .highlight {
-  color: tomato;
+  color: #2eb1d1;
 }
