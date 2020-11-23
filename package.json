@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/dlsucomet/riesgo-vis/issues"
   },
-  "homepage": "https://dlsucomet.github.io/riesgo-vis",
+  "homepage": "https://github.com/brandendupont-mcw/lisc-viz",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
